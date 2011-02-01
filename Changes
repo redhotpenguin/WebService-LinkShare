@@ -1,5 +1,8 @@
 Revision history for Perl extension WebService::LinkShare.
 
+0.03  Mon Jan 31 18:41 PST 2011
+    - added other deps identified by cpantesters
+
 0.02  Wed Jan 26 18:04 PST 2011
     - added XML::LibXML dependency
 
